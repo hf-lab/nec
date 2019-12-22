@@ -12456,7 +12456,7 @@ textarea {
 
 .pattern-overlay-1::before {
   content: "";
-  background: url(../images/bg/pattern/01.png);
+  background: url(https://cdn.jsdelivr.net/gh/hf-lab/nec@master/01.png);
   background-position: center center;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
@@ -12476,7 +12476,7 @@ textarea {
 
 .pattern-overlay-1-dark::before {
   content: "";
-  background: url(../images/bg/pattern/01-dark.png);
+  background: url(https://cdn.jsdelivr.net/gh/hf-lab/nec@master/01-dark.png);
   background-position: center center;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
@@ -12496,7 +12496,7 @@ textarea {
 
 .pattern-overlay-2::before {
   content: "";
-  background: url(../images/bg/pattern/02.png);
+  background: url(https://cdn.jsdelivr.net/gh/hf-lab/nec@master/02.png);
   background-position: center center;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
@@ -12516,7 +12516,7 @@ textarea {
 
 .pattern-overlay-3::before {
   content: "";
-  background: url(../images/bg/pattern/03.png);
+  background: url(https://cdn.jsdelivr.net/gh/hf-lab/nec@master/03.png);
   background-position: center center;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
@@ -12536,7 +12536,7 @@ textarea {
 
 .pattern-overlay-4::before {
   content: "";
-  background: url(../images/bg/pattern/04.png);
+  background: url(https://cdn.jsdelivr.net/gh/hf-lab/nec@master/04.png);
   background-position: center center;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
