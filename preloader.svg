@@ -5,8 +5,8 @@
 <!-- change background Gradient color below -->
 <defs>
   <linearGradient id="BgGradient">
-      <stop offset="5%"  stop-color="#2ab9a5"/>
-      <stop offset="95%" stop-color="#97c74e"/>
+      <stop offset="5%"  stop-color="#c94b4b"/>
+      <stop offset="95%" stop-color="#4b134f"/>
   </linearGradient>
 </defs>
 
