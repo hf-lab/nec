@@ -16626,7 +16626,7 @@ textarea.form-control-lg {
     display: block;
     height: 3px;
     opacity: 1;
-    background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+    background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
   }
 
   .dropdown-submenu {
@@ -17198,7 +17198,7 @@ header.navbar-sticky-on .navbar-brand .navbar-brand-item {
 
 .btn-grad {
   color: #ffffff;
-  background: linear-gradient(150deg, #b5179e 0%, #3c096c 50%, #b5179e 100%);
+  background: linear-gradient(150deg, #10002b 0%, #3c096c 50%, #10002b 100%);
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   background-size: 260% 100%;
@@ -17236,7 +17236,7 @@ header.navbar-sticky-on .navbar-brand .navbar-brand-item {
   right: 0;
   z-index: -2;
   background-color: #4cbd89;
-  background: linear-gradient(150deg, #b5179e 0%, #3c096c 50%, #b5179e 100%);
+  background: linear-gradient(150deg, #10002b 0%, #3c096c 50%, #10002b 100%);
   background-size: 260% 100% !important;
   background-position: right bottom !important;
 }
@@ -17474,7 +17474,7 @@ header.navbar-sticky-on .navbar-brand .navbar-brand-item {
 .nav-tabs.tab-grad .nav-link.active {
   border-radius: 40px;
   color: #ffffff;
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
 }
 
 /*tab-with-icon*/
@@ -17494,7 +17494,7 @@ header.navbar-sticky-on .navbar-brand .navbar-brand-item {
 }
 
 .text-grad {
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
   -webkit-background-clip: text;
           background-clip: text;
   -WebKit-text-fill-color: transparent;
@@ -17520,7 +17520,7 @@ header.navbar-sticky-on .navbar-brand .navbar-brand-item {
 }
 
 .icon-grad i:before {
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
   -webkit-background-clip: text;
           background-clip: text;
   -WebKit-text-fill-color: transparent;
@@ -17528,7 +17528,7 @@ header.navbar-sticky-on .navbar-brand .navbar-brand-item {
 
 /* background color */
 .bg-grad {
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
 }
 
 .bg-dark-grad {
@@ -17569,7 +17569,7 @@ header.navbar-sticky-on .navbar-brand .navbar-brand-item {
 
 /*Progress gradient*/
 .progress-grad .progress-bar {
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
 }
 
 .progress-dark-grad .progress-bar {
@@ -18146,7 +18146,7 @@ a.primary-hover:hover {
 }
 
 .fill-grad-end {
-  stop-color: #b5179e;
+  stop-color: #10002b;
 }
 
 .fill-white {
@@ -18621,7 +18621,7 @@ footer .widget {
   width: 100%;
   opacity: 0;
   visibility: hidden;
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
   -webkit-transition: all 1s ease-in-out;
   transition: all 1s ease-in-out;
 }
@@ -18635,7 +18635,7 @@ footer .widget {
   width: 100%;
   opacity: 0.7;
   visibility: visible;
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
@@ -18696,7 +18696,7 @@ footer .widget {
 }
 .portfolio .nav .nav-tabs-style-2 .nav-filter a.active {
   color: #ffffff;
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
 }
 
 /*nav-tabs-style-3*/
@@ -18718,7 +18718,7 @@ footer .widget {
 .portfolio .nav .nav-tabs-style-3 .nav-filter a.active {
   border-radius: 40px;
   color: #ffffff;
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
 }
 
 /*nav-tabs-style-4*/
@@ -18742,7 +18742,7 @@ footer .widget {
 .portfolio .nav .nav-tabs-style-4 .nav-filter a.active {
   border-radius: 40px;
   color: #ffffff;
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
 }
 
 /*===============================
@@ -19532,7 +19532,7 @@ footer .widget {
   color: #343a40;
 }
 .accordion.accordion-icon-gradient .accordion-header .accordion-button.accordion-button:not(.collapsed) {
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
   -webkit-box-shadow: none;
           box-shadow: none;
 }
@@ -19703,7 +19703,7 @@ footer .widget {
   border-radius: 3px;
   opacity: 0;
   visibility: hidden;
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
@@ -19939,7 +19939,7 @@ footer .widget {
           transform: rotate(-45deg);
   width: 100px;
   display: block;
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
   -webkit-box-shadow: 0 3px 10px -5px black;
           box-shadow: 0 3px 10px -5px black;
   position: absolute;
@@ -20505,7 +20505,7 @@ footer .widget {
   height: 100%;
   top: 0px;
   left: 0;
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
 }
 
 /*divider*/
@@ -20550,11 +20550,11 @@ footer .widget {
 
 .divider-grad:before {
   height: 3px;
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
 }
 .divider-grad:after {
   height: 3px;
-  background: linear-gradient(150deg, #b5179e 0%, #3c096c 100%);
+  background: linear-gradient(150deg, #10002b 0%, #3c096c 100%);
 }
 
 .divider-dark:before, .divider-dark:after {
@@ -21094,7 +21094,7 @@ footer .widget {
   opacity: 0;
   visibility: hidden;
   overflow: hidden;
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
@@ -21109,7 +21109,7 @@ footer .widget {
   opacity: 0.7;
   visibility: visible;
   overflow: hidden;
-  background: linear-gradient(150deg, #3c096c 0%, #b5179e 100%);
+  background: linear-gradient(150deg, #3c096c 0%, #10002b 100%);
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
